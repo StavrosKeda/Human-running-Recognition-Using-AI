@@ -5,7 +5,7 @@ clear m
 m = mobiledev;
 m.AccelerationSensorEnabled = 1;
 m.Logging = 1;
-load('net2')
+load('net2f')
 % Initialize data for rolling plot
 data = zeros(200, 3);
 
