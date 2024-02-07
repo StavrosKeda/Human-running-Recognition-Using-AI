@@ -34,6 +34,8 @@ Here are the data I used to train the model.
 
 The above link should be downloaded by the user and coexist in the same folder as the main file tri1f.m that the code runs.
 
+using the MATLAB Mobile App (Android), setting its accelerometers on. also the matlab on the computer must be on the same network as the phone that receives the signals.
+
 By clicking 'run' in the (trif.m), the code executes and is able to recognize whether the user is running or not. (the mobile must be in the hand)
 
 # Demo
