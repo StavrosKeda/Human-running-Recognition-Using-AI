@@ -1,9 +1,12 @@
-{[ https://drive.google.com/file/d/1Vq5q8XDls9ioYE0H71qEQLIsq_sqozoj/view?usp=drive_link ](https://drive.google.com/file/d/1Vq5q8XDls9ioYE0H71qEQLIsq_sqozoj/view?usp=sharing)}
 
-The above link should be downloaded by the user and coexist in the same folder as the main file tri1f.m that the code runs.
-
+# Solution to MATLAB and Simulink Challenge project <'232'> <'Human Motion Recognition Using IMUs'>
 
 
+
+
+[https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs)
+
+# Project details
 
 During the program's process, I had to transform human motion from complex analysis and classification into discrete subsets.
 
@@ -25,6 +28,13 @@ Here are the data I used to train the model.
 [https://drive.google.com/drive/folders/1h-KX-Ia9-5BCt4vcWZWk9hmvcOFnMh0k?usp=drive_link](https://drive.google.com/drive/folders/1h-KX-Ia9-5BCt4vcWZWk9hmvcOFnMh0k?usp=sharing)
 
 
+
+# How to run section
+{[ https://drive.google.com/file/d/1Vq5q8XDls9ioYE0H71qEQLIsq_sqozoj/view?usp=drive_link ](https://drive.google.com/file/d/1Vq5q8XDls9ioYE0H71qEQLIsq_sqozoj/view?usp=sharing)}
+
+The above link should be downloaded by the user and coexist in the same folder as the main file tri1f.m that the code runs.
+
+By clicking 'run' in the (trif.m), the code executes and is able to recognize whether the user is running or not. (the mobile must be in the hand)
 
 # Demo
 
