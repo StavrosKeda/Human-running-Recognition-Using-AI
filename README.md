@@ -35,10 +35,6 @@ The following link is a video featuring me explaining and demonstrating the func
 
 
 
-fdffdsfffd
-
-
-e5757
 
 
 
